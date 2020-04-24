@@ -1,0 +1,10 @@
+loginTests/ApparatPageTest.class
+loginTests/UnValidLoginTestWithPageObjectWithExcel.class
+parentTests/AbstractParentTest.class
+loginTests/LoginWithPageObjectTest.class
+loginTests/LoginTestWithPageObjectWithExcel.class
+api/ApiTest.class
+suits/LoginSuit.class
+testDB/TestDataBase.class
+loginTests/LoginWithPageObjectWrongLoginTest.class
+loginTests/LoginTest.class

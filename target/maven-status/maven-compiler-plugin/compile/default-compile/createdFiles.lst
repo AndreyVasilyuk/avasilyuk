@@ -1,0 +1,13 @@
+libs/ConfigClass.class
+libs/ExcelDriver.class
+pages/CoworkersPage.class
+pages/HomePage.class
+endpoints/EndPoints.class
+libs/Utils.class
+apiResources/CurrencyValues.class
+pages/ApparatPage.class
+parentPage/ParentPage.class
+libs/DataBase.class
+libs/ActionWithWebElements.class
+libs/SpreadsheetData.class
+pages/LoginPage.class

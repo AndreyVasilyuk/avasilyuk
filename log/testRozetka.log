@@ -1,0 +1,278 @@
+2020-15-04 22:53:28   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 81.0.4044.69 (since Google Chrome 81 is installed in your machine)
+2020-15-04 22:53:28   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as /Users/andrew/.m2/repository/webdriver/chromedriver/mac64/81.0.4044.69/chromedriver
+2020-24-04 19:12:02   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 81.0.4044.69 (since Google Chrome 81 is installed in your machine)
+2020-24-04 19:12:02   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as /Users/andrew/.m2/repository/webdriver/chromedriver/mac64/81.0.4044.69/chromedriver
+2020-24-04 19:12:04   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 81.0.4044.69 (since Google Chrome 81 is installed in your machine)
+2020-24-04 19:12:04   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as /Users/andrew/.m2/repository/webdriver/chromedriver/mac64/81.0.4044.69/chromedriver
+2020-24-04 19:12:06   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 81.0.4044.69 (since Google Chrome 81 is installed in your machine)
+2020-24-04 19:12:06   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as /Users/andrew/.m2/repository/webdriver/chromedriver/mac64/81.0.4044.69/chromedriver
+2020-24-04 19:13:24   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 81.0.4044.69 (since Google Chrome 81 is installed in your machine)
+2020-24-04 19:13:24   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as /Users/andrew/.m2/repository/webdriver/chromedriver/mac64/81.0.4044.69/chromedriver
+2020-24-04 19:13:28   INFO [pages.LoginPage] : Page login was opened
+2020-24-04 19:13:28   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:28   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:29   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:29   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:30   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:30   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:30   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:30   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:31   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:31   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:31   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:31   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 81.0.4044.69 (since Google Chrome 81 is installed in your machine)
+2020-24-04 19:13:31   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as /Users/andrew/.m2/repository/webdriver/chromedriver/mac64/81.0.4044.69/chromedriver
+2020-24-04 19:13:33   INFO [pages.LoginPage] : Page login was opened
+2020-24-04 19:13:34   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:34   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:34   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:34   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:35   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:35   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:35   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:36   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:36   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:36   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:36   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:36   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 81.0.4044.69 (since Google Chrome 81 is installed in your machine)
+2020-24-04 19:13:36   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as /Users/andrew/.m2/repository/webdriver/chromedriver/mac64/81.0.4044.69/chromedriver
+2020-24-04 19:13:39   INFO [pages.LoginPage] : Page login was opened
+2020-24-04 19:13:39   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:39   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:40   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:40   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:41   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:41   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:41   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:41   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:42   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:42   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:13:42   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:21:38   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 81.0.4044.69 (since Google Chrome 81 is installed in your machine)
+2020-24-04 19:21:38   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as /Users/andrew/.m2/repository/webdriver/chromedriver/mac64/81.0.4044.69/chromedriver
+2020-24-04 19:21:40   INFO [pages.LoginPage] : Page login was opened
+2020-24-04 19:21:40   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:21:40   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:21:41   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:21:41   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:21:41   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:21:42   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:21:42   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:21:42   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:21:42   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:21:42   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:21:43   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:21:43   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:21:43   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:21:54   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 81.0.4044.69 (since Google Chrome 81 is installed in your machine)
+2020-24-04 19:21:54   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as /Users/andrew/.m2/repository/webdriver/chromedriver/mac64/81.0.4044.69/chromedriver
+2020-24-04 19:21:57   INFO [pages.LoginPage] : Page login was opened
+2020-24-04 19:21:57   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:21:58   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:21:58   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:21:58   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:21:59   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:21:59   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:21:59   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:21:59   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:21:59   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:22:00   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:22:00   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:24:52   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 81.0.4044.69 (since Google Chrome 81 is installed in your machine)
+2020-24-04 19:24:52   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as /Users/andrew/.m2/repository/webdriver/chromedriver/mac64/81.0.4044.69/chromedriver
+2020-24-04 19:24:55   INFO [pages.LoginPage] : Page login was opened
+2020-24-04 19:24:56   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:24:56   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:24:56   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:24:56   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:24:57   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:24:57   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:24:57   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:24:58   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:24:58   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:24:58   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:24:58   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:24:58   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:24:59   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:24:59   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:24:59   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:24:59   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:36:57   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 81.0.4044.69 (since Google Chrome 81 is installed in your machine)
+2020-24-04 19:36:57   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as /Users/andrew/.m2/repository/webdriver/chromedriver/mac64/81.0.4044.69/chromedriver
+2020-24-04 19:36:59   INFO [pages.LoginPage] : Page login was opened
+2020-24-04 19:36:59   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:36:59   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:37:00   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:37:00   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:37:01   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:37:01   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:37:01   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:37:01   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:37:01   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:37:02   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:37:02   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:37:38   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:37:38   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:37:38   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:37:38   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:37:39   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:38:42   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 81.0.4044.69 (since Google Chrome 81 is installed in your machine)
+2020-24-04 19:38:42   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as /Users/andrew/.m2/repository/webdriver/chromedriver/mac64/81.0.4044.69/chromedriver
+2020-24-04 19:38:45   INFO [pages.LoginPage] : Page login was opened
+2020-24-04 19:38:45   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:38:46   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:38:47   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:38:47   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:38:47   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:38:48   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:38:48   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:38:48   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:38:48   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:38:48   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:38:49   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:38:59   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:38:59   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:38:59   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:38:59   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:39:00   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:40:09   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 81.0.4044.69 (since Google Chrome 81 is installed in your machine)
+2020-24-04 19:40:09   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as /Users/andrew/.m2/repository/webdriver/chromedriver/mac64/81.0.4044.69/chromedriver
+2020-24-04 19:40:12   INFO [pages.LoginPage] : Page login was opened
+2020-24-04 19:40:12   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:40:12   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:40:13   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:40:13   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:40:13   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:40:14   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:40:14   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:40:14   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:40:14   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:40:14   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:40:15   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:40:22   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:40:22   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:40:22   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:40:22   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:40:23   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:42:10   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 81.0.4044.69 (since Google Chrome 81 is installed in your machine)
+2020-24-04 19:42:10   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as /Users/andrew/.m2/repository/webdriver/chromedriver/mac64/81.0.4044.69/chromedriver
+2020-24-04 19:42:13   INFO [pages.LoginPage] : Page login was opened
+2020-24-04 19:42:13   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:42:14   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:42:14   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:42:14   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:42:15   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:43:11   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:43:11   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:43:12   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:43:12   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:43:12   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:43:12   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:43:57   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 81.0.4044.69 (since Google Chrome 81 is installed in your machine)
+2020-24-04 19:43:57   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as /Users/andrew/.m2/repository/webdriver/chromedriver/mac64/81.0.4044.69/chromedriver
+2020-24-04 19:44:00   INFO [pages.LoginPage] : Page login was opened
+2020-24-04 19:44:00   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:44:00   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:44:01   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:44:01   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:44:01   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:44:09   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:44:09   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:44:09   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:44:09   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:44:10   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:44:10   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:44:43   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 81.0.4044.69 (since Google Chrome 81 is installed in your machine)
+2020-24-04 19:44:43   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as /Users/andrew/.m2/repository/webdriver/chromedriver/mac64/81.0.4044.69/chromedriver
+2020-24-04 19:44:46   INFO [pages.LoginPage] : Page login was opened
+2020-24-04 19:44:46   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:44:46   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:44:46   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:44:47   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:44:47   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:44:52   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:44:52   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:44:52   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:44:53   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:44:53   INFO [libs.ActionWithWebElements] : 
+2020-24-04 19:44:53   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:12:32   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 81.0.4044.69 (since Google Chrome 81 is installed in your machine)
+2020-24-04 20:12:32   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as /Users/andrew/.m2/repository/webdriver/chromedriver/mac64/81.0.4044.69/chromedriver
+2020-24-04 20:12:35   INFO [pages.LoginPage] : Page login was opened
+2020-24-04 20:12:35   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:12:35   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:12:36   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:12:36   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:12:36   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:18:53   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 81.0.4044.69 (since Google Chrome 81 is installed in your machine)
+2020-24-04 20:18:53   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as /Users/andrew/.m2/repository/webdriver/chromedriver/mac64/81.0.4044.69/chromedriver
+2020-24-04 20:18:57   INFO [pages.LoginPage] : Page login was opened
+2020-24-04 20:18:58   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:18:58   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:18:58   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:18:58   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:18:59   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:19:55   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 81.0.4044.69 (since Google Chrome 81 is installed in your machine)
+2020-24-04 20:19:55   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as /Users/andrew/.m2/repository/webdriver/chromedriver/mac64/81.0.4044.69/chromedriver
+2020-24-04 20:19:57   INFO [pages.LoginPage] : Page login was opened
+2020-24-04 20:19:58   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:19:58   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:19:58   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:19:58   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:19:59   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:21:04   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 81.0.4044.69 (since Google Chrome 81 is installed in your machine)
+2020-24-04 20:21:04   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as /Users/andrew/.m2/repository/webdriver/chromedriver/mac64/81.0.4044.69/chromedriver
+2020-24-04 20:21:07   INFO [pages.LoginPage] : Page login was opened
+2020-24-04 20:21:08   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:21:08   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:21:08   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:21:08   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:21:09   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:21:14  ERROR [libs.ActionWithWebElements] : 
+2020-24-04 20:21:19  ERROR [libs.ActionWithWebElements] : 
+2020-24-04 20:21:24  ERROR [libs.ActionWithWebElements] : 
+2020-24-04 20:21:29  ERROR [libs.ActionWithWebElements] : 
+2020-24-04 20:21:34  ERROR [libs.ActionWithWebElements] : 
+2020-24-04 20:21:39  ERROR [libs.ActionWithWebElements] : 
+2020-24-04 20:24:26   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 81.0.4044.69 (since Google Chrome 81 is installed in your machine)
+2020-24-04 20:24:26   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as /Users/andrew/.m2/repository/webdriver/chromedriver/mac64/81.0.4044.69/chromedriver
+2020-24-04 20:24:29   INFO [pages.LoginPage] : Page login was opened
+2020-24-04 20:24:29   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:24:29   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:24:29   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:24:29   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:24:30   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:24:45  ERROR [libs.ActionWithWebElements] : 
+2020-24-04 20:25:00  ERROR [libs.ActionWithWebElements] : 
+2020-24-04 20:25:15  ERROR [libs.ActionWithWebElements] : 
+2020-24-04 20:25:30  ERROR [libs.ActionWithWebElements] : 
+2020-24-04 20:25:45  ERROR [libs.ActionWithWebElements] : 
+2020-24-04 20:26:00  ERROR [libs.ActionWithWebElements] : 
+2020-24-04 20:27:48   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 81.0.4044.69 (since Google Chrome 81 is installed in your machine)
+2020-24-04 20:27:48   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as /Users/andrew/.m2/repository/webdriver/chromedriver/mac64/81.0.4044.69/chromedriver
+2020-24-04 20:27:51   INFO [pages.LoginPage] : Page login was opened
+2020-24-04 20:27:51   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:27:51   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:27:51   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:27:52   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:27:52   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:27:52   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:27:52   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:27:53   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:27:53   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:27:53   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:28:08  ERROR [libs.ActionWithWebElements] : 
+2020-24-04 20:28:53   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Using chromedriver 81.0.4044.69 (since Google Chrome 81 is installed in your machine)
+2020-24-04 20:28:53   INFO [io.github.bonigarcia.wdm.WebDriverManager] : Exporting webdriver.chrome.driver as /Users/andrew/.m2/repository/webdriver/chromedriver/mac64/81.0.4044.69/chromedriver
+2020-24-04 20:28:56   INFO [pages.LoginPage] : Page login was opened
+2020-24-04 20:28:56   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:28:56   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:28:57   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:28:57   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:28:58   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:28:58   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:28:58   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:28:58   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:28:58   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:28:58   INFO [libs.ActionWithWebElements] : 
+2020-24-04 20:28:59   INFO [libs.ActionWithWebElements] : 
